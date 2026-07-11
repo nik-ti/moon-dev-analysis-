@@ -1,5 +1,7 @@
 # Algo Trading + AI Workspace
 
+> **Next step: [Fable 5 plan/](Fable%205%20plan/)** — the forward-looking operating system built on top of this analysis: a researched 2026 tool stack, an 8-stage gated pipeline, a Claude Code autopilot architecture, portfolio-level risk rules, per-venue playbooks (crypto perps, spot, Polymarket, Kalshi), and ready-to-use templates. The documents below analyze how Moon Dev works; that folder is the system to actually run.
+
 Built from a full transcript analysis of 10 videos (~7.5 hours) from the **Moon Dev** YouTube channel, an algo-trading creator who builds trading bots almost entirely by directing Claude Code. The channel turns out to have a genuinely repeatable system underneath the individual videos — this workspace extracts that system and turns it into something you can actually run yourself, not just read about.
 
 ## Read in this order
